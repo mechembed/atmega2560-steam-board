@@ -4,7 +4,7 @@
 <h1 align="center">🧪 ATmega2560 STEAM Development Board</h1>
 <p align="center">
 <!-- NOTE: Replace this placeholder with an actual image of your board -->
-<img src="Docs/images/board_top_view.png" alt="ATmega2560 STEAM Development Board" width="600">
+<img src="Docs/images/TOP_2.png" alt="ATmega2560 STEAM Development Board" width="600">
 </p>
 <p align="center">
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
@@ -42,8 +42,8 @@ Ideal for <strong>classroom labs, maker projects, interactive art</strong>, and 
 </tr>
 <tr>
 <!-- NOTE: Replace these placeholders with your actual images -->
-<td><img src="Docs/images/board_top_view.png" width="400"/></td>
-<td><img src="Docs/images/schematic_overview.png" width="400"/></td>
+<td><img src="Docs/images/TOP_1.png" width="400"/></td>
+<td><img src="Docs/images/Schematic.png" width="400"/></td>
 </tr>
 </table>
 <hr>
